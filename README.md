@@ -61,3 +61,12 @@ An interactive dashboard was built in Power BI to visualize and explore the data
 ---
 
 ## 📂 Repository Structure
+FUTURE_DS_01/
+ - **raw_data.zip/**
+      - raw_data.xlsx
+  - **cleaned_data.zip/**
+     - cleaned_data.xlsx
+  - **dashboard.zip/**
+     - powerbi_dashboard.pbix
+  - **visuals.zip/**
+     - dashboard.png
